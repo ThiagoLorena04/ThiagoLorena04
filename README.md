@@ -43,8 +43,8 @@ Busco constantemente aprimorar minhas habilidades técnicas, explorando novas li
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" 
 align="left" 
-alt="Git" 
- title="Git"
+alt="C" 
+ title="C"
 width="30px" 
  style="padding-right: 10px;" 
 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latesticons/git/git-original.svg" 
@@ -60,8 +60,8 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latesticons/git/git-original.s
 
 <img 
  align="left" 
-alt="Python" 
-title="Python"
+alt="WordPress" 
+title="WordPress"
 width="30px" 
 style="padding-right: 10px;" 
 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/wordpress/wordpress-original.svg" 
