@@ -38,7 +38,7 @@ Busco constantemente aprimorar minhas habilidades técnicas, explorando novas li
 
 ## Tecnologias e linguagens 💻
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,c,docker)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,c,typescript,docker)](https://skillicons.dev)
 
 ### 🚀 Frameworks e bibliotecas
 [![My Skills](https://skillicons.dev/icons?i=react,nodejs,mysql,postgres)](https://skillicons.dev)
