@@ -8,7 +8,7 @@ Busco constantemente aprimorar minhas habilidades técnicas, explorando novas li
 
 ## Sobre mim
 - 🎓 Graduando em Análise e Desenvolimento pela FATEC Campina
-- 📚 Estudando JavaScript, Node.js, React, e desenvolvimento fullstack
+- 📚 Estudando Java, Python, React e Vue, e desenvolvimento fullstack
 - 🌍 Explorando novas tecnologias e desenvolvendo soluções de software.
 
   ---
