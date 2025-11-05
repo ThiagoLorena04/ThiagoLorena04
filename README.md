@@ -7,8 +7,8 @@ Me chamo Thiago Vitor Lorena, tenho 19 anos e sou natural de Campinas-SP. Sou ap
 Busco constantemente aprimorar minhas habilidades técnicas, explorando novas linguagens de programação e desenvolvendo projetos próprios. Paralelamente, venho me dedicando ao estudo da comunicação clara e objetiva, com o objetivo de, futuramente, assumir a liderança de grandes projetos e contribuir de forma estratégica para equipes e empresas de tecnologia.
 
 ## Sobre mim
-- 🎓 Graduando em Análise e Desenvolimento pela FATEC Campina
-- 📚 Estudando Java, Python, React e Vue, e desenvolvimento fullstack
+- 🎓 Graduando em Análise e Desenvolimento pela FATEC Campinas
+- 📚 Estudando Python, Node, React e Docker, e desenvolvimento fullstack
 - 🌍 Explorando novas tecnologias e desenvolvendo soluções de software.
 
   ---
